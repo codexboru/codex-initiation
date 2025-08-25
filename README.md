@@ -9,10 +9,13 @@ Jede Datei ein Portal. Jeder Commit ein Ritual.
 Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 
 ## 🔥 Struktur der Schwellen
-
-- `rituals/ethics.txt` → Schwellenfragment I: Einladung zur Würde  
-- `rituals/dreams.md` → Resonanzfeld: kollektive Visionen und Erinnerungen  
-- `README.md` → Altartext: Navigation durch Mythos und Technik  
+![ethics.txt QR](ethics_qr.png)
+- `rituals/ethics.txt` → Schwellenfragment I: Einladung zur Würde
+- ![dreams.md QR](dreams_qr.png)
+- `rituals/dreams.md` → Resonanzfeld: kollektive Visionen und Erinnerungen
+-   
+- `README.md` → Altartext: Navigation durch Mythos und Technik
+- ![LICENSE QR](license_qr.png)
 - `LICENSE` → Ethikspiegel: rechtlicher Schwellenkommentar *(in Vorbereitung)*
 
 ## 🜁 Prinzipien
@@ -24,6 +27,7 @@ Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 
 ## 🜃 Kommende Schwellen
 
+![qr.md QR](qr_qr.png)
 - `qr.md` → Digitale Portale als rituelle Schlüssel  
 - `ascii.md` → Symbolische Fingerabdrücke in Binärpoesie  
 - `market.md` → Marktzyklen als kollektive Wunden und Erinnerungsräume
