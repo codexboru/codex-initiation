@@ -5,7 +5,7 @@ Dies ist ein rituelles Schwellenfeld — jeder Code ein Tor, jeder Link ein Frag
 
 ## 🔗 Codex-Zugänge
 
-- [QR: codex-initiation](https://github.com/boru/codex-initiation)  
+- [QR: codex-initiation](https://github.com/codexboru/codex-initiation/tree/main)  
   → Schwelle zum lebendigen Altar
 
 - [QR: ethics.txt](https://github.com/codexboru/codex-initiation/blob/main/CONTRIBUTING.md/rituals/ethics.txt)  
