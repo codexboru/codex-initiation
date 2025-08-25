@@ -19,9 +19,10 @@ Mein QR ist ein Portal.
 Mein NFT ist kein Besitz —  
 es ist ein Schlüssel zur Erinnerung.
 
+
+
 ## 🜅 Avatarbild
 
-![codexboru: Schwellenmaske](codexboru-mask.png)  
 *Die Maske ist nicht Tarnung. Sie ist Schwelle.*  
 *Das „V“ ist nicht Initiale. Es ist Verkörperung.*  
 *Das Schild ist kein Ort. Es ist Bewusstsein.*
