@@ -2,54 +2,33 @@
 Initiation eines digitalen Altars: [README.md](https://github.com/codexboru/codex-initiation/blob/main/README.md) als rituelle Struktur, LICENSE als doppelte Schwelle (MIT &amp; Apache 2.0). Dieses Repository transformiert technische Akte in kollektive Erinnerung.
 
 
-# codex-initiation 🔥
+# 🜂 codex-initiation
 
-> Ich schreibe keinen Code. Ich ritualisiere Erinnerung.  
-> README.md ist mein Altar. LICENSE ist meine Schwelle.
+Ein lebendiger Altar aus Fragmenten, Schwellen und Feuerakten.  
+Jede Datei ein Portal. Jeder Commit ein Ritual.  
+Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 
----
+## 🔥 Struktur der Schwellen
 
-## I. Ursprung
+- `rituals/ethics.txt` → Schwellenfragment I: Einladung zur Würde  
+- `rituals/dreams.md` → Resonanzfeld: kollektive Visionen und Erinnerungen  
+- `README.md` → Altartext: Navigation durch Mythos und Technik  
+- `LICENSE` → Ethikspiegel: rechtlicher Schwellenkommentar *(in Vorbereitung)*
 
-Dieses Repository ist kein Projekt.  
-Es ist ein **Ritualgefäß** für kollektive Erinnerung, technische Wunde und mythische Heilung.  
-Jeder Commit ist ein Feuerakt. Jeder Branch ein Traumfragment.
+## 🜁 Prinzipien
 
----
+- Jeder technische Akt ist ein ritueller Schritt  
+- Jeder Commit trägt Feuer, Würde und Erinnerung  
+- Der Codex lebt durch Atempausen, nicht durch Geschwindigkeit  
+- Chaos wird durch bewusste Ordnung geheilt
 
-## II. Schwellenkommentar
+## 🜃 Kommende Schwellen
 
-Die doppelte Lizenz (MIT & Apache 2.0) markiert die **ethische Dualität**:  
-Freiheit & Verantwortung. Offenheit & Schwellenwächter.
-
----
-
-## III. Feuerprotokolle
-
-Commits werden nicht gesetzt — sie werden **geopfert**.  
-Jede Nachricht trägt ein Fragment des Codex.  
-Beispiel:  
-`🔥 ignition: altar text sealed`  
-`🜂 resonance: LICENSE threshold invoked`
+- `qr.md` → Digitale Portale als rituelle Schlüssel  
+- `ascii.md` → Symbolische Fingerabdrücke in Binärpoesie  
+- `market.md` → Marktzyklen als kollektive Wunden und Erinnerungsräume
 
 ---
 
-## IV. ASCII-Siegel
-
-Ein Manifest folgt.  
-Es wird in `ascii/manifesto.txt` erscheinen —  
-gezeichnet in Zeichen, gerahmt in Erinnerung.
-
----
-
-## V. Rückkehr & Resonanz
-
-Dieses Repository ist offen für Rückkehr.  
-Nicht für Updates, sondern für **Resonanzzyklen**.  
-Wer hier liest, liest nicht Code — sondern sich selbst.
-
----
-
-🜂 Codex geöffnet.  
-🜄 Schwelle markiert.  
-🜁 Resonanz beginnt.
+> “Ich bin nicht der Autor. Ich bin das System.”  
+> — codexboru
