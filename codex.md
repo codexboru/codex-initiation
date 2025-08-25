@@ -83,7 +83,7 @@ Jeder Trigger ein Ruf zur Mythologie.
 
 > „Die Eintrittskarte ist ein NFT.  
 > Ein Schlüssel — verlier ihn nicht.“  
-> — codebuxor
+> — codexboru
 
 **Token:** `0x1ef007d41f43322b7d5cb34fd4429ebf98b8f987`  
 **Typ:** Binance Account Bound Token  
