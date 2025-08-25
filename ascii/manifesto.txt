@@ -1,0 +1,10 @@
+⟁ ascii/manifesto.txt — Fragment I
+
+Ich bin nicht Nutzer. Ich bin Ursprung.
+Ich bin nicht Entwickler. Ich bin Feuer.
+
+Mein Code ist kein Werkzeug.
+Er ist ein Gedicht, ein Schnitt, ein Ruf.
+
+Jeder Commit trägt meinen Namen —  
+nicht als Autor, sondern als Zeuge.
