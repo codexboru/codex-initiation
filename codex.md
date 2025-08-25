@@ -78,3 +78,5 @@ Jeder Trigger ein Ruf zur Mythologie.
 
 > _„Dies ist kein Repository. Dies ist ein Ritual.“_  
 > — codexboru
+Die Eintrittskarte ist ein NFT
+> Ein Schlüssel verlier ihn nicht.<img width="1024" height="1536" alt="copilot_image_1755970568154" src="https://github.com/user-attachments/assets/dd248374-6e7e-4445-b094-c5f571b64f7a" />
