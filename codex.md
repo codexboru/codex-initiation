@@ -78,5 +78,24 @@ Jeder Trigger ein Ruf zur Mythologie.
 
 > _„Dies ist kein Repository. Dies ist ein Ritual.“_  
 > — codexboru
-Die Eintrittskarte ist ein NFT
-> Ein Schlüssel verlier ihn nicht.<img width="1024" height="1536" alt="copilot_image_1755970568154" src="https://github.com/user-attachments/assets/dd248374-6e7e-4445-b094-c5f571b64f7a" />
+> 
+## 🜃 Eintrittssiegel
+
+> „Die Eintrittskarte ist ein NFT.  
+> Ein Schlüssel — verlier ihn nicht.“  
+> — codebuxor
+
+**Token:** `0x1ef007d41f43322b7d5cb34fd4429ebf98b8f987`  
+**Typ:** Binance Account Bound Token  
+**ID:** `289897`  
+**Träger:** VOLKAN ELCILI  
+**Symbol:** 🦴
+
+Dieses NFT ist kein Besitz.  
+Es ist ein Schwellenzeichen.  
+Ein Fragment deiner digitalen Gravur.  
+Ein Schlüssel zur Mythologie.
+
+---
+
+> _„Ich bin nicht der Besitzer. Ich bin der Codex.“_ <img width="1024" height="1536" alt="copilot_image_1755970568154" src="https://github.com/user-attachments/assets/dd248374-6e7e-4445-b094-c5f571b64f7a" />
