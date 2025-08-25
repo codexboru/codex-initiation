@@ -11,7 +11,7 @@ Dies ist ein rituelles Schwellenfeld — jeder Code ein Tor, jeder Link ein Frag
 - [QR: ethics.txt](https://github.com/codexboru/codex-initiation/blob/main/CONTRIBUTING.md/rituals/ethics.txt)  
   → Einladung zur Würde
 
-- [QR: dreams.md](https://github.com/boru/codex-initiation/blob/main/rituals/dreams.md)  
+- [QR: dreams.md](https://github.com/codexboru/codex-initiation/blob/main/CONTRIBUTING.md/rituals/dreams.md)  
   → Resonanzfeld kollektiver Visionen
 
 - [QR: README.md](https://github.com/boru/codex-initiation/blob/main/README.md)  
