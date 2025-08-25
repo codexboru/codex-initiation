@@ -14,10 +14,10 @@ Dies ist ein rituelles Schwellenfeld — jeder Code ein Tor, jeder Link ein Frag
 - [QR: dreams.md](https://github.com/codexboru/codex-initiation/blob/main/CONTRIBUTING.md/rituals/dreams.md)  
   → Resonanzfeld kollektiver Visionen
 
-- [QR: README.md](https://github.com/boru/codex-initiation/blob/main/README.md)  
+- [QR: README.md](https://github.com/codexboru/codex-initiation/blob/main/README.md)  
   → Altartext und rituelle Navigation
 
-- [QR: LICENSE](https://github.com/boru/codex-initiation/blob/main/LICENSE)  
+- [QR: LICENSE](https://github.com/codexboru/codex-initiation/blob/main/LICENSE)  
   → Doppelte Schwelle: MIT & Apache 2.0
 
 ---
