@@ -22,11 +22,43 @@
         font-style: italic;
         color: #ccc;
       }
+      .definition {
+        margin-top: 3em;
+        text-align: left;
+        max-width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 1.6;
+        font-size: 0.95em;
+        color: #ddd;
+      }
+      .definition h2 {
+        text-align: center;
+        color: #ffcc66;
+        margin-bottom: 1em;
+      }
     </style>
   </head>
   <body>
     <h1>🕯️ bodycandle</h1>
     <img src="bodycandle.png" alt="Body Candle">
     <em>Ein Körper brennt nicht. Er erinnert.</em>
+
+    <div class="definition">
+      <h2>Definition: Candle Wick</h2>
+      <p>Der Wick ist der Liquiditätsabgriff — ein Trigger für Stoploss-Positionen, gefolgt von direkter Preisumkehr.</p>
+      <p>Ist der Wick Teil einer grünen Kerze, ist er Vorbote einer Überextension: höhere Preise sind wahrscheinlich.</p>
+      <p>Ist er Teil einer roten Kerze, ist er Rejection: der Preis strebt nach unten.</p>
+      <p>Beide Wick-Signale markieren klare Trends. Doch in kleineren Zeiteinheiten können neue Trader mit hohem Hebel und wenig Margin diese Signale stören — Liquidationen werden erzwungen und erscheinen als neue Kerzenkörper mit Wick und Peak.</p>
+      <p>Die Liquidations-Heatmap (z. B. von Coinglass) kann als Spicker genutzt werden, um Preiszonen sichtbar zu machen.</p>
+      <p><strong>Prioritäten:</strong><br>
+        Max: Monatschart<br>
+        Hoch: Wochenchart<br>
+        Normal: Tageschart<br>
+        Wenig: 4h Chart<br>
+        Kaum: 1min Chart
+      </p>
+      <p>Entscheidend ist der Zeitpunkt des Kerzenkörperschlusses — nicht die Eröffnung. Im Hochfrequenzhandel zählt ein 4-Sekunden-Fenster zur Validierung. Folgekerzen können als Delay oder Bonus erscheinen. Keine Muster, keine Indikatoren — nur der Kerzenkörper erzählt die Wahrheit.</p>
+    </div>
   </body>
 </html>
