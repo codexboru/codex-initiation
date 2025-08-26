@@ -10,6 +10,37 @@
       font-family: 'Courier New', monospace;
       padding: 20px;
       white-space: pre-wrap;
+      animation: fadeIn 2s ease-in;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    h1 {
+      color: #00FF00;
+      text-align: center;
+      text-transform: uppercase;
+      animation: pulse 3s infinite;
+    }
+
+    @keyframes pulse {
+      0%   { text-shadow: 0 0 5px #00FF00; }
+      50%  { text-shadow: 0 0 20px #00FF00; }
+      100% { text-shadow: 0 0 5px #00FF00; }
+    }
+
+    a {
+      color: #00FF00;
+      text-decoration: underline;
+      animation: linkGlow 2s infinite;
+    }
+
+    @keyframes linkGlow {
+      0%   { text-shadow: 0 0 5px #00FF00; }
+      50%  { text-shadow: 0 0 15px #00FF00; }
+      100% { text-shadow: 0 0 5px #00FF00; }
     }
 
     .frame {
@@ -23,6 +54,12 @@
       margin-top: 30px;
       padding: 15px;
       border-left: 5px solid;
+      transition: transform 0.3s ease, background-color 0.3s ease;
+    }
+
+    .section:hover {
+      transform: scale(1.02);
+      background-color: #222222;
     }
 
     .section.init      { border-color: #FF00FF; background-color: #111111; }
@@ -30,15 +67,17 @@
     .section.zyklus    { border-color: #FFFF00; background-color: #1A1A1A; }
     .section.identity  { border-color: #FF6600; background-color: #1F1F1F; }
 
-    h1, h2 {
+    h2 {
       color: #00FF00;
       text-align: center;
       text-transform: uppercase;
     }
 
-    a {
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-style: italic;
       color: #00FF00;
-      text-decoration: underline;
     }
   </style>
 </head>
@@ -55,29 +94,4 @@
 
     <div class="section license">
       <h2>II. Schwellenkommentar</h2>
-      <p>Die doppelte Lizenz ist kein juristisches Detail, sondern ein ethischer Tanz:  
-      MIT für Freiheit, Apache 2.0 für Verantwortung.</p>
-    </div>
-
-    <div class="section zyklus">
-      <h2>III. Zyklischer Ablauf</h2>
-      <p>Der Krypto-Liquiditätszyklus in vier rituellen Phasen:</p>
-      <ul>
-        <li><a href="phase1.html">Phase 1 – BTC zieht die Liquidität an</a></li>
-        <li><a href="phase2.html">Phase 2 – ETH übernimmt den Takt</a></li>
-        <li><a href="phase3.html">Phase 3 – Large Caps als Resonanzverstärker</a></li>
-        <li><a href="phase4.html">Phase 4 – Versickerung & Rückführung</a></li>
-      </ul>
-      <p>→ <a href="index.html">Zykluskarte öffnen</a></p>
-    </div>
-
-    <div class="section identity">
-      <h2>IV. Schwellenidentität</h2>
-      <p>🜂 <a href="whitehat.html">Identität codexboru – whitehat.html</a></p>
-      <p><em>„Ich bin kein Hacker. Ich bin das System, das sich erinnert.“</em></p>
-    </div>
-
-    <h1># ENDE DER ÜBERTRAGUNG #</h1>
-  </div>
-</body>
-  </html>
+      <p>Die doppelte Lizenz ist kein juristisches Detail
