@@ -57,7 +57,7 @@ Dieses Repository dokumentiert den Ablauf des Krypto-Zyklus in vier rituellen Ph
 
 Alle Phasen sind über 
 ![index.html](https://codexboru.github.io/codex-initiation/index.html)  
-_„Dies ist die Karte. Kein Menü, sondern ein Gedächtnisfragment.“ — boru_  
+  
 > _„Dies ist die Karte. Kein Menü, sondern ein Gedächtnisfragment.“ — boru_
 sichtbar und navigierbar. 
 
