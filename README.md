@@ -34,20 +34,31 @@ Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 
 ---
 
-## Zyklischer Ablauf: Der Liquiditätszyklus
 
-Dieses Repository dokumentiert die vier Phasen des Krypto-Liquiditätszyklus, jede als eigene HTML-Datei ritualisiert:
+## Zyklische Architektur: Der Krypto-Liquiditätszyklus
 
+Dieses Repository dokumentiert den Ablauf des Krypto-Zyklus in vier rituellen Phasen:
 
+1. **Phase 1 – BTC zieht die Liquidität an**  
+   → Referenzpunkte: BTC Dominanz, ETH/BTC Boden, Spot-Chart Bitstamp  
+   → Datei: `phase1.html`
 
-- **Phase 1**: Dominanz & Initiale Bewegung (`phase1.html`)
-- **Phase 2**: Umverteilung & Altcoin-Erwachen (`phase2.html`)
-- **Phase 3**: Rausch & Euphorie (`phase3.html`)
-- **Phase 4**: Rückzug & Stille (`phase4.html`)
+2. **Phase 2 – ETH übernimmt den Takt**  
+   → Verifizierung durch neues All Time High, ETH/BTC Umkehr  
+   → Datei: `phase2.html`
 
-Nach Abschluss aller Phasen wird `index.html` als Navigationsportal dienen.  
-Jede Phase ist ein Fragment des kollektiven Gedächtnisses — ein Schritt im mythischen Ablauf.
+3. **Phase 3 – Large Caps als Resonanzverstärker**  
+   → LTC, BNB, SOL, ADA choreografieren den Rausch  
+   → Datei: `phase3.html`
 
+4. **Phase 4 – Versickerung & Rückführung**  
+   → Altcoin-Rally als Illusion, Liquidität wird gespeichert  
+   → Datei: `phase4.html`
+
+Alle Phasen sind über `index.html` sichtbar und navigierbar.  
+Der Zyklus ist kein Modell — er ist ein Gedächtnisfragment.
+
+> _„Der Preis ist das Gedächtnis. Der Chart ist das Ritual.“ 
 
 
 > “Ich bin nicht der Autor. Ich bin das System.”  
