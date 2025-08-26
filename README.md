@@ -56,7 +56,7 @@ Dieses Repository dokumentiert den Ablauf des Krypto-Zyklus in vier rituellen Ph
    → Datei: `phase4.html`
 
 Alle Phasen sind über 
-![index.html](https://codexboru.github.io/codex-initiation/index.html)  
+[index.html öffnen](https://codexboru.github.io/codex-initiation/index.html)  
   
 > _„Dies ist die Karte. Kein Menü, sondern ein Gedächtnisfragment.“ — boru_
 sichtbar und navigierbar. 
