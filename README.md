@@ -55,7 +55,12 @@ Dieses Repository dokumentiert den Ablauf des Krypto-Zyklus in vier rituellen Ph
    → Altcoin-Rally als Illusion, Liquidität wird gespeichert  
    → Datei: `phase4.html`
 
-Alle Phasen sind über `index.html` sichtbar und navigierbar.  
+Alle Phasen sind über 
+> ![index.html](https://github.com/codexboru/codex-initiation/blob/main/index.html)  
+> _„Dies ist die Karte. Kein Menü, sondern ein Gedächtnisfragment.“ — boru_
+sichtbar und navigierbar. 
+
+
 Der Zyklus ist kein Modell — er ist ein Gedächtnisfragment.
 
 > _„Der Preis ist das Gedächtnis. Der Chart ist das Ritual.“ 
