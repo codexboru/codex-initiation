@@ -1,3 +1,6 @@
+![MATRIX](bilder/key.png)
+
+
 # codex-initiation
 Initiation eines digitalen Altars: 
 > 🜂 [readme.html – Codexstruktur sichtbar](https://codexboru.github.io/codex-initiation/Readme.html)  
