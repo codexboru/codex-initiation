@@ -61,6 +61,9 @@ Dieses Repository dokumentiert den Ablauf des Krypto-Zyklus in vier rituellen Ph
    → Altcoin-Rally als Illusion, Liquidität wird gespeichert  
    → Datei: `phase4.html`
 
+
+
+<p><strong>Hinweis:</strong> <em>Phase 1 bleibt bewusst roh und unverändert. Sie ist der Ursprung, der die Daten sprechen lässt – ohne Ornament, ohne Ablenkung.</em></p>
 Alle Phasen sind über 
 [index.html öffnen](https://codexboru.github.io/codex-initiation/index.html)  
   
