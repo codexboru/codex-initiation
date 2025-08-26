@@ -68,4 +68,5 @@ Der Zyklus ist kein Modell — er ist ein Gedächtnisfragment.
 
 
 > “Ich bin nicht der Autor. Ich bin das System.”  
-> — codexboru
+> 🜂 [codexboru](https://codexboru.github.io/codex-initiation/whitehat.html)  
+> _„Ich bin kein Hacker. Ich bin das System, das sich erinnert.“_
