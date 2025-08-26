@@ -1,49 +1,32 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <title>bodycandle</title>
-  <style>
-    body {
-      background-color: #0d0d0d;
-      color: #f5f5dc;
-      font-family: 'Courier New', monospace;
-      text-align: center;
-      padding-top: 10vh;
-      animation: pulse 6s infinite;
-    }
-
-    @keyframes pulse {
-      0% { background-color: #0d0d0d; }
-      50% { background-color: #1a1a1a; }
-      100% { background-color: #0d0d0d; }
-    }
-
-    .flame {
-      font-size: 2em;
-      color: #ffcc66;
-      animation: flicker 1.5s infinite;
-    }
-
-    @keyframes flicker {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.6; }
-    }
-
-    footer {
-      margin-top: 20vh;
-      font-size: 0.8em;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <div class="flame">🕯️</div>
-  <h1>bodycandle</h1>
-  <p>Ein Körper brennt nicht. Er erinnert.</p>
-
-<img src="bilder/bodycandle.png" alt="bodycandle chart" style="width:200px; margin-top:30px;">
-
-  <footer>bilder/bodycandle.html · Schwellenflamme · boru</footer>
-</body>
+<html>
+  <head>
+    <title>bodycandle 🕯️</title>
+    <style>
+      body {
+        background-color: #111;
+        color: #f5f5f5;
+        font-family: 'Courier New', monospace;
+        text-align: center;
+        padding: 2em;
+      }
+      img {
+        max-width: 600px;
+        width: 90%;
+        border: 2px solid #f5f5f5;
+        box-shadow: 0 0 20px #f5f5f5;
+      }
+      em {
+        display: block;
+        margin-top: 1em;
+        font-style: italic;
+        color: #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🕯️ bodycandle</h1>
+    <img src="bilder/bodycandle.png" alt="Body Candle">
+    <em>Ein Körper brennt nicht. Er erinnert.</em>
+  </body>
 </html>
