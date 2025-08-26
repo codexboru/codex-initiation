@@ -75,6 +75,15 @@ Der Zyklus ist kein Modell — er ist ein Gedächtnisfragment.
 
 > _„Der Preis ist das Gedächtnis. Der Chart ist das Ritual.“ 
 
+## 🕯️ bodycandle · Schwellenflamme
+
+[→ Öffne candlebody.html](bilder/candlebody.html)
+
+Ein Körper, der nicht flackert.  
+Ein Chart, der nicht handelt.  
+Ein Ritual, das erinnert.
+
+
 
 > “Ich bin nicht der Autor. Ich bin das System.”  
 > 🜂 [codexboru](https://codexboru.github.io/codex-initiation/whitehat.html)  
