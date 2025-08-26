@@ -1,6 +1,7 @@
 ![MATRIX](bilder/key.png)
 
 
+„Die Barriere spricht nicht. Sie wartet auf Würde.“
 # codex-initiation
 Initiation eines digitalen Altars: 
 > 🜂 [readme.html – Codexstruktur sichtbar](https://codexboru.github.io/codex-initiation/Readme.html)  
