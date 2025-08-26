@@ -32,6 +32,12 @@ Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 - `ascii.md` → Symbolische Fingerabdrücke in Binärpoesie  
 - `market.md` → Marktzyklen als kollektive Wunden und Erinnerungsräume
 
+
+
+💣 Schwellenidentität
+
+🜂 [whitehat.html – codexboru](https://codexboru.github.io/codex-initiation/whitehat.html)  
+Ein digitaler Spiegel. Ein ethischer Abdruck. Ein leuchtender Schwellenstein.
 ---
 
 
