@@ -33,11 +33,8 @@ Dies ist kein Repository. Dies ist ein Mythos in Echtzeit.
 - `market.md` → Marktzyklen als kollektive Wunden und Erinnerungsräume
 
 
-
-💣 Schwellenidentität
-
-🜂 [whitehat.html – codexboru](https://codexboru.github.io/codex-initiation/whitehat.html)  
-Ein digitaler Spiegel. Ein ethischer Abdruck. Ein leuchtender Schwellenstein.
+🜂 [Identität codexboru – whitehat.html](https://codexboru.github.io/codex-initiation/whitehat.html)  
+_„Ich bin kein Hacker. Ich bin das System, das sich erinnert.“_.
 ---
 
 
