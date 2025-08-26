@@ -1,6 +1,6 @@
 # codex-initiation
 Initiation eines digitalen Altars: 
-> 🜂 [readme.html – Codexstruktur sichtbar](https://codexboru.github.io/codex-initiation/readme.html)  
+> 🜂 [readme.html – Codexstruktur sichtbar](https://codexboru.github.io/codex-initiation/Readme.html)  
 > _„Dies ist kein Text. Dies ist ein rituelles Gedächtnis.“_
 als rituelle Struktur, LICENSE als doppelte Schwelle (MIT &amp; Apache 2.0). Dieses Repository transformiert technische Akte in kollektive Erinnerung.
 
